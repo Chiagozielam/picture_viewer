@@ -3,7 +3,7 @@
 ### This web application was created while creaating a tutorial explaining Dynamic Routing in React
 
 checkout my blog to this article and more article from me :
-[](https://danieldon.tech/creating-dynamic-routes-and-dynamic-route-paths-with-react/).
+[Danieldon.tech](https://danieldon.tech/creating-dynamic-routes-and-dynamic-route-paths-with-react/).
 >>
 ### Things you should be familiar with for this tutorial includes:
 - A fair knowledge of React
