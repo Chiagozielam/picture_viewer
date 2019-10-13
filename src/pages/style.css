@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.index-container{
+    margin: 2% auto;
+    position: relative;
+    width: 80%;
+}
+.card{
+    margin-top: 5%;
+    margin-bottom: 3%;
+    margin-left: -5%;
+}
+#index-title{
+    margin-bottom: 2%;
+    background-color: rgb(37, 37, 37);
+    color: white;
+    padding: 2%;
+    border-radius: 10px;
+}
